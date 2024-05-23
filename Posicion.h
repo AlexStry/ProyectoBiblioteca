@@ -7,6 +7,8 @@ class Posicion {
     int y;
     //variables
     public:
+    Posicion();
+    Posicion(int x, int y); //Constructor
     int getX() const;
     void setX(int x);
     //Metodos que obtienen y establecen la coordenada de x
