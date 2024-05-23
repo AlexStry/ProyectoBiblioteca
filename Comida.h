@@ -4,5 +4,6 @@
 
 class Comida : public Objeto {
     public:
+    Comida(); //Constructor
     void revivir(); //Metodo para crear mas comida
 };
