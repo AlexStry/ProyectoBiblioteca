@@ -1,4 +1,7 @@
 #include "Objeto.h"
+
+Objeto::Objeto() : posicion(Posicion()) {} //Constructor
+
 //Obtener y devolver la posicion del objeto
 Posicion Objeto::getPosicion() const {
     return posicion;
