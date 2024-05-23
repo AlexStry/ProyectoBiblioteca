@@ -12,6 +12,7 @@ class Juego {
     //varibles
 
     public:
+    Juego(); //Constructor
     void empezarJuego(); //Comenzar el juego
     void terminarJuego(); //Terminar el juego
 };
