@@ -1,5 +1,9 @@
 #include "Serpiente.h"
 using namespace std;
+//Constructor
+Serpiente::Serpiente() : tamaño(0), direccion("") {}
+
+Serpiente::Serpiente(int tamaño, const string& direccion) : tamaño(tamaño), direccion(direccion) {}
 
 void Serpiente::mover() {
     //En el espacio se va establecer el movimiento de la serpiente
