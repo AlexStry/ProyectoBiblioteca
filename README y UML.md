@@ -1,6 +1,6 @@
 # ProyectoBiblioteca
 ProyectoBiblioteca, Segundo Parcial
-<img width="808" alt="Screenshot 2024-06-12 at 11 19 38 p m" src="https://github.com/AlexStry/ProyectoBiblioteca/assets/150042828/cc58cd78-4427-4752-a9b4-247204fb4e16">
+<img width="859" alt="Screenshot 2024-06-13 at 12 24 04 a m" src="https://github.com/AlexStry/ProyectoBiblioteca/assets/150042828/8b588192-6e64-4e34-9cde-4e52cc1d7e89">
 
 
 Descripcion del código: Mi proyecto es una simulación de cómo funcionaría una biblioteca en línea. Dentro de mi proyecto existen cuatro diferentes clases: Libro (Clase madre), LibroFisico, LibroElectronico y Biblioteca (agregación). Dentro del main se puede crear un objeto de tipo Biblioteca que recibe como parámetros el título del libro y el costo que tiene el libro. Para diferenciar el libro físico del libro electrónico, le agregué un descuento a los libros electrónicos de 10%, lo cual es la única diferencia entre las dos clases. El código tiene una funcionalidad muy simple: después de crear la "Biblioteca", es decir, crear objetos dentro del main, cuando se ejecuta el código, va a mostrar los libros disponibles dentro de la biblioteca junto a sus precios. Este código es bastante simple, pero sirve como ejemplo de cómo funcionaría una tienda en línea o un catálogo en su forma más simple.
