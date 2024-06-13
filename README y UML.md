@@ -13,4 +13,5 @@ Información útil: Para compilar en Mac, Windows y Linux se puede usar el coman
 - Mac: g++ -std=c++11 -Wall Libro.cpp Biblioteca.cpp main.cpp -o main
 - Windows: g++ -std=c++11 -Wall Libro.cpp Biblioteca.cpp main.cpp -o main
 - Linux: g++ -std=c++11 -Wall Libro.cpp Biblioteca.cpp main.cpp -o main
+
 Para ejecutar el código se utiliza ./main o en ciertos casos de Windows main.exe.
