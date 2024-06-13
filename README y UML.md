@@ -1,5 +1,5 @@
-# ProyectoPoo
-Proyecto Poo, Tercer Parcial
+# ProyectoBiblioteca
+ProyectoBiblioteca, Segundo Parcial
 <img width="808" alt="Screenshot 2024-06-12 at 11 19 38 p m" src="https://github.com/AlexStry/ProyectoBiblioteca/assets/150042828/cc58cd78-4427-4752-a9b4-247204fb4e16">
 
 
